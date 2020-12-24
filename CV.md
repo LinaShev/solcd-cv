@@ -6,7 +6,7 @@ _**Lina Shevchenko**_
   * Email: linashevchenko95@gmail.com
 
 *Summary* 
-- My main goal is always improve myself. I have 3 years of work experience as marketing specialist in two companies. Marketing is very diversified sphere, and very often I faced with tasks which made me learn absolutely new information including web site and mobile app development. And I recognize for myself so many interesting things which are connected with IT and software. I think that the only limitations I have are those which are self-imposed. That’s why I’ve started to learn about development and QA, because I've never tried it before and because I can. I try not to limit myself in terms of learning and development myself. I started to study QA by myself: read a lot of professional sources, attended video lections and online courses.
+- My main goal is always to improve myself. I have 3 years of work experience as marketing specialist in two companies. Marketing is very diversified sphere, and very often I faced with tasks which made me learn absolutely new information including web site and mobile app development. And I recognize for myself so many interesting things which are connected with IT and software. I think that the only limitations I have are those which are self-imposed. That’s why I’ve started to learn about development and QA, because I've never tried it before and because I can. I try not to limit myself in terms of learning and development myself. I started to study QA by myself: read a lot of professional sources, attended video lections and online courses.
 
 *Skills* 
   * deep knowledge of marketing theory and PR;
