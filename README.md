@@ -1,5 +1,5 @@
 # solcd-cv
-Lina Shevchenko
+**Lina Shevchenko**
 
 Contact Info
 - Phone number: +380669882435
